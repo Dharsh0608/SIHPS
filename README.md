@@ -25,8 +25,7 @@ Key features:
 By leveraging technology, the platform aims to address engagement challenges and provide alumni with valuable services while strengthening the institution-alumni bond.
 
 ## Proposed Solution / Architecture Diagram
-
-![alt text](<WhatsApp Image 2024-11-28 at 20.53.32_5e4bebcc-1.jpg>)
+![alt text](image.png)
 
 ## Use Cases
 ![alt text](<WhatsApp Image 2024-12-01 at 01.26.02_6764e31b.jpg>)
